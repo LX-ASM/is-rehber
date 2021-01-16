@@ -1,7 +1,7 @@
-*Okumadan önce araştırmak isteyebileceğiniz kelimeler: Assembler, BIOS
+*Okumadan önce araştırmak isteyebileceğiniz kelimeler: Assembler, BIOS*
 
 
-**Hedef: BIOS'a kendini çalıştırılabilir bir disk olarak gösteren bir dosya oluşturmak
+**Hedef: BIOS'a kendini çalıştırılabilir bir disk olarak gösteren bir dosya oluşturmak**
 
 
 Bu çok heyecanlı, kendi boot sektörümüzü yapacağız!
@@ -36,7 +36,8 @@ En basit başlatma sektörü
 Yukarıdaki 512 baytı bir ikili düzenleyici ile yazabilir veya çok basit bir Assembly kodu yazabilirsiniz:
 
 
-```; Sonsuz döngü (e9 fd ff)
+```nasm
+; Sonsuz döngü (e9 fd ff)
 loop:
 jmp loop
 
