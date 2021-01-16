@@ -28,7 +28,7 @@ e9 fd ff 00 00 00 00 00 00 00 00 00 00 00 00 00
 
 Temelde tümü sıfırdır ve 16 bitlik değer `0xAA55` ile biter (Endianness'a dikkat edin, x86 bir küçük endian'dır). İlk üç bayt sistemin sonsuza kadar çalışmasını sağlıyor.
 
-**ÇN: endian/endianness: Önemli baytların sağda veya solda olması durumu. Küçük endian, önemli bayt sağda, büyük endian, önemli bayt solda demektir.
+**ÇN:** endian/endianness: Önemli baytların sağda veya solda olması durumu. Küçük endian, önemli bayt sağda, büyük endian, önemli bayt solda demektir.
 
 En basit başlatma sektörü
 -------------------------
