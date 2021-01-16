@@ -22,7 +22,7 @@ bir işletim sisteminin nasıl çalıştığına dair merakı olan ancak Linux �
 - Dersler çok küçük ve tamamlanması 5-15 dakika sürebilir. Bana güvenin ve kendinize güvenin. Bunu yapabilirsin!
 
 
-Bu rehber naıl kullanılır?
+Bu rehber nasıl kullanılır?
 ------------------------
 
 1. Birinci klasörle başlayın ve aşağı doğru gidin. Önceki kod üzerine inşaa edilen derslerdir, yani 5. derse gidip orada neden mov ah, 0x0e olduğunu anlamazsanız, bu 2. dersi okumadığınız içindir.
