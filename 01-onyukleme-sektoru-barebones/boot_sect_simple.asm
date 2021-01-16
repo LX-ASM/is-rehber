@@ -1,4 +1,4 @@
-; A simple boot sector program that loops forever
+; Sonsuz döngüye giren basit bir önyükleme sektör programı.
 loop:
     jmp loop
 
