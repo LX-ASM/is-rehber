@@ -1,3 +1,4 @@
+; ÇN: Hepsini çeviremedim, isterseniz buyrun açıklamaları: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 mov ah, 0x0e
 
 ; deneme 1
