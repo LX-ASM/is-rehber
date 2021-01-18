@@ -1,7 +1,7 @@
 is-rehber
 ===========
 Yandaki rehberin çevirisidir: https://github.com/cfenollosa/os-tutorial
-Çevirileyen/çevirildiğinde anlam saçmalaşan yerler çıkarılmış olabilir. Bunlar, dersi etkilemeyecek değişikliklerdir.
+Çevirilemeyen/çevirildiğinde anlam saçmalaşan yerler çıkarılmış olabilir. Bunlar, dersi etkilemeyecek değişikliklerdir.
 
 Nasıl sıfırdan bir İS yazılır!
 
